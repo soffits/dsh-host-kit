@@ -1,3 +1,5 @@
+> **Moved.** This package is now part of [@soffits/dsh-plugin-sdk](https://github.com/soffits/dsh-plugin-sdk) (`host/`), with its history. This repository is archived.
+
 # dsh-host-kit
 
 Small helpers for the host half of [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugins, the parts every plugin with its own page ends up writing:
